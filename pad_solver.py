@@ -1,0 +1,2 @@
+def bfs(board):
+    pass
